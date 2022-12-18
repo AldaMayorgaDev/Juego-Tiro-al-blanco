@@ -6,3 +6,13 @@ h1{
 p{
     text-align: center;
 }
+
+.lienzo{
+    border: 2px solid #037bc0;;
+    display: block;
+    margin: 0 auto;
+}
+
+.lienzo:hover{
+    cursor: pointer;
+}
